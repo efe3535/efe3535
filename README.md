@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm a 14 years old self-learner, I want to improve my programming skills and develop open-source projects in future.
-- 🔭 I’m currently working on our Teknofest project
+- 🔭 I’m currently working on open-source projects
 - 🌱 I’m currently learning Python, C++, Bash commands etc.
 - 📫 How to reach me: 
 via Email:  a.efe.akyazi@gmail.com
