@@ -8,5 +8,5 @@ via Email:  a.efe.akyazi@gmail.com
 via Discord: ngneer#0001
 via Matrix: @Enginar:kde.org
 - 😄 Pronouns: Enginar, n g neer
-- ⚡ Fun fact: Everything started with a $5 Arduino UNO. I started by blinking LED. As I dream, I started learning new things. And I think you can do this forever if you continue dreaming...
+- ⚡ Fun fact: Everything started with a $5 Arduino UNO. I started by blinking LED. As I dream, I started learning something new. And I think you can do this forever if you continue dreaming...
 - 📍 Location: Izmir, Turkey
