@@ -1,12 +1,10 @@
 ### Hi there 👋
-
-- I'm a 14 years old self-learner, I want to improve my programming skills and develop open-source projects in future.
 - 🔭 I’m currently working on open-source projects
-- 🌱 I’m currently learning Python, C++, Bash commands etc.
+- 🌱 I’m currently learning C and Linux.
 - 📫 How to reach me: 
 via Email:  a.efe.akyazi@gmail.com
-via Discord: ngneer#0001
-via Matrix: @Enginar:kde.org
+via Discord: enginar#3846
+via Matrix: @enginar2:kde.org
 - 😄 Pronouns: Enginar, n g neer
-- ⚡ Fun fact: Everything started with a $5 Arduino UNO. I started by blinking LED. As I dream, I started learning something new. And I think you can do this forever if you continue dreaming...
+- ⚡ Fun fact: My profile picture was taken at a party at our school.
 - 📍 Location: Izmir, Turkey
