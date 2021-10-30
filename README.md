@@ -7,5 +7,5 @@ via Discord: enginar#3846
 via Matrix: @enginar2:kde.org
 - 😄 Pronouns: Enginar, n g neer
 - ⚡ Fun fact: My profile picture was taken at a party at our school.
-- ⚡ Bonus fun fact: Just `npx enginar` to print this to your terminal! 
+- ⚡ Bonus fun fact: Just  `npx enginar`  to print this to your terminal! 
 - 📍 Location: Izmir, Turkey
