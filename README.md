@@ -10,5 +10,5 @@ via Matrix: @enginar2:kde.org
 - 📍 Location: Izmir, Turkey
 
 Linux user here!
-![Arch](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png) 
+<img src="drawing.jpg" alt="drawing" width="200"/>
 I'm using Arch Linux.
