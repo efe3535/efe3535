@@ -8,3 +8,7 @@ via Matrix: @enginar2:kde.org
 - 😄 Pronouns: Enginar, n g neer
 - ⚡ Bonus fun fact: Just  `npx enginar`  to print info about me to your terminal! 
 - 📍 Location: Izmir, Turkey
+
+Linux user here!
+![Arch](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png) 
+I'm using Arch Linux.
