@@ -11,5 +11,5 @@ via Matrix: @enginar2:kde.org
 
 Linux user here!
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" alt="drawing" width="48"/>
 I'm using Arch Linux.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" alt="drawing" width="24"/>
