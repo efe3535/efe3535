@@ -1,4 +1,6 @@
 ### Hi there 👋
+These are my stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=efe3535)](https://efe3535.github.io)
 - 🔭 I’m currently working on open-source projects
 - 🌱 I’m currently learning C and Linux.
 - 📫 How to reach me: 
