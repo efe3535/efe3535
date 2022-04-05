@@ -14,5 +14,4 @@ via Matrix: @enginar2:envs.net
 
 Linux user here!
 
-I'm using <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" alt="drawing" width="24"/>
- Arch Linux.
+I'm using Artix Linux with Suckless Utilities (dwm, st, dmenu etc.)
