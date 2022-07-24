@@ -6,7 +6,7 @@ These are my stats
 - 🌱 I’m currently learning C and Linux.
 - 📫 How to reach me: 
 via Email:  a.efe.akyazi@protonmail.com
-via Discord: enginar#3846
+via Discord: enginar#6798
 via Matrix: @enginar2:envs.net
 - 😄 Pronouns: Enginar, <a href="https://technopat.net/sosyal/uye/175920">Linuxginar, n g neer</a>
 - ⚡ Bonus fun fact: Just  `npx enginar`  to print info about me to your terminal! 
