@@ -13,7 +13,3 @@ via Matrix: @enginar2:envs.net
 - 😄 Pronouns: Enginar, <a href="https://technopat.net/sosyal/uye/175920">Linuxginar, n g neer</a>
 - ⚡ Bonus fun fact: Just  `npx enginar`  to print info about me to your terminal! 
 - 📍 Location: Izmir, Turkey
-
-Linux user here!
-
-I'm using Artix Linux with Suckless Utilities (dwm, st, dmenu etc.)
