@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Buy me a coffee!](http://buymeacoffee.com/aefeakyazi)
+[Buy me a coffee!](http://buymeacoffee.com/aefeakyazi)
 
 These are my stats
 
