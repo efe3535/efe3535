@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Buy me a coffee!
-http://buymeacoffee.com/aefeakyazi
+[![Buy me a coffee!](http://buymeacoffee.com/aefeakyazi)
+
 These are my stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=efe3535&theme=radical)](https://efe3535.github.io)
